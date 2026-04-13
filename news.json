@@ -99,6 +99,15 @@
     "link": "https://kukacafe.ru/news/8marth"
   },
   {
+    "id": 40,
+    "title": "АФИША МЕРОПРИЯТИЙ МАРТ",
+    "description": "В марте наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
+    "expiry_date": null,
+    "created_at": "Sun Mar 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "",
+    "link": "https://kukacafe.ru/news/afishamart"
+  },
+  {
     "id": 32,
     "title": "АФИША МЕРОПРИЯТИЙ ФЕВРАЛЬ",
     "description": "В феврале наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
@@ -349,15 +358,6 @@
     "created_at": "Sat Nov 15 2025 12:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118367/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B0_%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_%D0%90%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9A%D0%B0%D1%82%D1%8C%D0%BA%D0%B0%D0%BB%D0%BE_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_%D0%9A%D1%83%D0%BA%D0%B0_tjba7n.jpg",
     "link": "https://kukacafe.ru/rclub"
-  },
-  {
-    "id": 40,
-    "title": "АФИША МЕРОПРИЯТИЙ МАРТ",
-    "description": "В марте наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
-    "expiry_date": null,
-    "created_at": null,
-    "image_url": "",
-    "link": "https://kukacafe.ru/news/afishamart"
   },
   {
     "id": 41,
