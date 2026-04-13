@@ -54,15 +54,6 @@
     "link": "https://kukacafe.ru/news/vesennyaja-skazka"
   },
   {
-    "id": 38,
-    "title": "",
-    "description": "",
-    "expiry_date": "Sun Mar 15 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Sun Mar 15 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118356/%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BB%D1%83%D0%B1%D0%B0_%D0%90%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9A%D0%B0%D1%82%D1%8C%D0%BA%D0%B0%D0%BB%D0%BE_mntlqe.jpg",
-    "link": "https://kukacafe.ru/news/vesennyayavstrechya"
-  },
-  {
     "id": 35,
     "title": "Старт раннего бронирования выпускных в «Кука»!",
     "description": "Мы рады объявить о запуске раннего бронирования выпускных из детского сада и начальной школы в семейном кафе «Кука»!",
@@ -88,6 +79,15 @@
     "created_at": "Tue Mar 10 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118296/22_%D0%BC%D0%B0%D1%80%D1%82%D0%B0_-_%D0%94%D0%B5%D0%BD%D1%8C_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D1%83%D0%BA%D0%B0_uvgjnj.jpg",
     "link": "https://kukacafe.ru/news/happybirthday-1year"
+  },
+  {
+    "id": 38,
+    "title": "",
+    "description": "",
+    "expiry_date": "Sun Mar 15 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Tue Mar 10 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118356/%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BB%D1%83%D0%B1%D0%B0_%D0%90%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9A%D0%B0%D1%82%D1%8C%D0%BA%D0%B0%D0%BB%D0%BE_mntlqe.jpg",
+    "link": "https://kukacafe.ru/news/vesennyayavstrechya"
   },
   {
     "id": 32,
