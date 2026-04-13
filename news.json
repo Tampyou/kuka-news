@@ -54,6 +54,15 @@
     "link": "https://kukacafe.ru/news/vesennyaja-skazka"
   },
   {
+    "id": 21,
+    "title": "Важно! Режим работы в праздничные дни",
+    "description": "С 31 декабря по 11 января\n1 января — выходной день\nВ игровых зонах действует тариф выходного дня.",
+    "expiry_date": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Mon Dec 29 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "",
+    "link": ""
+  },
+  {
     "id": 18,
     "title": "Новогодние праздники в «Кука»",
     "description": "С 2 по 11 января 2026 года приглашаем вас на волшебную встречу с Дедушкой Морозом!",
@@ -79,15 +88,6 @@
     "created_at": "Sun Dec 28 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118354/%D0%90%D1%84%D0%B8%D1%88%D0%B0_%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D1%85_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%B2_%D0%9A%D1%83%D0%BA%D0%B0_lupkau.jpg",
     "link": "https://kukacafe.ru/news/afishany"
-  },
-  {
-    "id": 21,
-    "title": "Важно! Режим работы в праздничные дни",
-    "description": "С 31 декабря по 11 января\n1 января — выходной день\nВ игровых зонах действует тариф выходного дня.",
-    "expiry_date": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Sun Dec 28 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": ""
   },
   {
     "id": 17,
