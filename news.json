@@ -54,6 +54,15 @@
     "link": "https://kukacafe.ru/news/vesennyaja-skazka"
   },
   {
+    "id": 12,
+    "title": "Милые мамы,\nс Днём матери!",
+    "description": "Вы невероятные, и мы благодарны, что вы выбираете «Кука» для своих тёплых семейных моментов.",
+    "expiry_date": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Thu Dec 25 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "",
+    "link": ""
+  },
+  {
     "id": 10,
     "title": "Новогодние чудеса в «Кука» для самых маленьких 2-5 лет",
     "description": "Для малышей мы приготовили добрый, теплый праздник 18 и 25 декабря с 11:30 до 13:00",
@@ -70,15 +79,6 @@
     "created_at": "Thu Dec 18 2025 12:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118369/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_6-11_exrbxf.jpg",
     "link": "https://kukacafe.ru/news/newyear2-5"
-  },
-  {
-    "id": 12,
-    "title": "Милые мамы,\nс Днём матери!",
-    "description": "Вы невероятные, и мы благодарны, что вы выбираете «Кука» для своих тёплых семейных моментов.",
-    "expiry_date": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Thu Dec 18 2025 12:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": ""
   },
   {
     "id": 9,
