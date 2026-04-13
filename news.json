@@ -54,6 +54,15 @@
     "link": "https://kukacafe.ru/news/vesennyaja-skazka"
   },
   {
+    "id": 29,
+    "title": "Блинный спэшл в «Кука»!",
+    "description": "С 16 по 22 февраля приглашаем вас на вкусный блинный спешл - всю неделю готовим любимые блины с разными начинками, сладкими и сытными!",
+    "expiry_date": null,
+    "created_at": "Sun Feb 22 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118354/%D0%91%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%8D%D1%88%D0%BB_%D0%B2_%D0%9A%D1%83%D0%BA%D0%B0_icb3au.jpg",
+    "link": "https://kukacafe.ru/news/maslenitsa2026"
+  },
+  {
     "id": 25,
     "title": "Первая встреча читательского клуба Алены Катькало в новом году!",
     "description": "На этой встрече мы вместе окунёмся в захватывающий мир книги «Денискины рассказы».",
@@ -88,15 +97,6 @@
     "created_at": "Sat Jan 10 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118409/%D0%A3%D1%81%D0%BF%D0%B5%D0%B9%D1%82%D0%B5_%D0%B4%D0%BE_%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F_qu79zc.jpg",
     "link": "https://kukacafe.ru/news/bonusbudni"
-  },
-  {
-    "id": 29,
-    "title": "Блинный спэшл в «Кука»!",
-    "description": "С 16 по 22 февраля приглашаем вас на вкусный блинный спешл - всю неделю готовим любимые блины с разными начинками, сладкими и сытными!",
-    "expiry_date": null,
-    "created_at": "Sat Jan 10 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118354/%D0%91%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%8D%D1%88%D0%BB_%D0%B2_%D0%9A%D1%83%D0%BA%D0%B0_icb3au.jpg",
-    "link": "https://kukacafe.ru/news/maslenitsa2026"
   },
   {
     "id": 24,
