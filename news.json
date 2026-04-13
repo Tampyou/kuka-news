@@ -63,6 +63,15 @@
     "link": "https://kukacafe.ru/news/vareniki"
   },
   {
+    "id": 23,
+    "title": "",
+    "description": "",
+    "expiry_date": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Tue Dec 30 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118374/%D0%9F%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%84%D0%B5_%D0%9A%D1%83%D0%BA%D0%B0_q52uxw.jpg",
+    "link": "https://kukacafe.ru/news/zavtraki"
+  },
+  {
     "id": 21,
     "title": "Важно! Режим работы в праздничные дни",
     "description": "С 31 декабря по 11 января\n1 января — выходной день\nВ игровых зонах действует тариф выходного дня.",
@@ -196,15 +205,6 @@
     "created_at": "Sat Nov 15 2025 12:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118367/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B0_%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_%D0%90%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9A%D0%B0%D1%82%D1%8C%D0%BA%D0%B0%D0%BB%D0%BE_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_%D0%9A%D1%83%D0%BA%D0%B0_tjba7n.jpg",
     "link": "https://kukacafe.ru/rclub"
-  },
-  {
-    "id": 23,
-    "title": "",
-    "description": "",
-    "expiry_date": null,
-    "created_at": null,
-    "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118374/%D0%9F%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%84%D0%B5_%D0%9A%D1%83%D0%BA%D0%B0_q52uxw.jpg",
-    "link": "https://kukacafe.ru/news/zavtraki"
   },
   {
     "id": 24,
