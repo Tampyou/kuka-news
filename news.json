@@ -227,7 +227,7 @@
   {
     "id": 26,
     "title": "Художественный мастер-класс",
-    "description": "",
+    "description": "Мы с радостью приглашаем вас на новую встречу в этом году.",
     "expiry_date": null,
     "created_at": null,
     "image_url": "",
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "title": "",
-    "description": "",
+    "description": "Вас ждёт тёплый вечер творчества и вдохновения.",
     "expiry_date": null,
     "created_at": null,
     "image_url": "",
