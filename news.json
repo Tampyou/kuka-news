@@ -48,7 +48,7 @@
     "id": 6,
     "title": "Весенняя сказка в кафе «Кука»",
     "description": "Дорогие друзья! Приглашаем вас окунуться в атмосферу волшебства и насладиться изысканными вкусами на нашем особом весеннем вечере.",
-    "expiry_date": null,
+    "expiry_date": "Sun Apr 26 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "created_at": "Tue Apr 14 2026 12:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776114464/%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_fluvij.jpg",
     "link": "https://kukacafe.ru/news/vesennyaja-skazka"
