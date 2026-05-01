@@ -108,6 +108,15 @@
     "link": "http://kukacafe.ru/news/mk-venskie-vafli-s-labubu"
   },
   {
+    "id": 51,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/letniy-klub"
+  },
+  {
     "id": 1,
     "title": "АФИША МЕРОПРИЯТИЙ АПРЕЛЬ",
     "description": "В апреле наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
