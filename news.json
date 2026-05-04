@@ -9,6 +9,15 @@
     "link": "http://kukacafe.ru/news/afishamay"
   },
   {
+    "id": 43,
+    "title": "Кулинарный  мастер-класс  «Космическая пицца»",
+    "description": "Подарите себе и ребёнку незабываемое космическое приключение с созданием пиццы мечты своими руками!",
+    "expiry_date": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Mon May 04 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370624/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B8%D1%86%D1%86%D0%B0_%D0%BF%D0%BE%D1%81%D1%82_goh4ae.jpg",
+    "link": "http://kukacafe.ru/news/mc-cosmopizzamay"
+  },
+  {
     "id": 49,
     "title": "Кулинарный мастер-класс \"Роллы для детей\"",
     "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить полезные и красивые роллы из фруктов и овощей",
@@ -52,15 +61,6 @@
     "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777901622/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D1%8B%D0%B5_%D1%81%D0%B0%D0%B9%D1%82_ckvhtd.jpg",
     "link": "https://kukacafe.ru/vipusknoy"
-  },
-  {
-    "id": 43,
-    "title": "Кулинарный  мастер-класс  «Космическая пицца»",
-    "description": "Подарите себе и ребёнку незабываемое космическое приключение с созданием пиццы мечты своими руками!",
-    "expiry_date": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370624/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B8%D1%86%D1%86%D0%B0_%D0%BF%D0%BE%D1%81%D1%82_goh4ae.jpg",
-    "link": "http://kukacafe.ru/news/mc-cosmopizzamay"
   },
   {
     "id": 44,
