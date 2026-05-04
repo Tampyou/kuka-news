@@ -1,5 +1,14 @@
 [
   {
+    "id": 49,
+    "title": "Кулинарный мастер-класс \"Роллы для детей\"",
+    "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить полезные и красивые роллы из фруктов и овощей",
+    "expiry_date": "Tue May 26 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Mon May 04 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370612/%D0%A0%D0%BE%D0%BB%D0%BB%D1%8B_%D0%BF%D0%BE%D1%81%D1%82_kypy3h.jpg",
+    "link": "http://kukacafe.ru/news/mk-rolly-dlya-detey"
+  },
+  {
     "id": 50,
     "title": "Кулинарный мастер-класс «Венские вафли с LABUBU»",
     "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить венские вафли с LABUBU",
@@ -115,15 +124,6 @@
     "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777588340/%D0%9A%D1%83%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0_%D0%BF%D0%BE%D1%81%D1%82_ykkv2x.jpg",
     "link": "http://kukacafe.ru/news/kukacinemamay"
-  },
-  {
-    "id": 49,
-    "title": "Кулинарный мастер-класс \"Роллы для детей\"",
-    "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить полезные и красивые роллы из фруктов и овощей",
-    "expiry_date": "Tue May 26 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370612/%D0%A0%D0%BE%D0%BB%D0%BB%D1%8B_%D0%BF%D0%BE%D1%81%D1%82_kypy3h.jpg",
-    "link": "http://kukacafe.ru/news/mk-rolly-dlya-detey"
   },
   {
     "id": 1,
