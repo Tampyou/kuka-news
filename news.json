@@ -1,5 +1,14 @@
 [
   {
+    "id": 50,
+    "title": "Кулинарный мастер-класс «Венские вафли с LABUBU»",
+    "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить венские вафли с LABUBU",
+    "expiry_date": "Thu May 28 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Mon May 04 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370574/%D0%92%D0%B0%D1%84%D0%BB%D0%B8_%D1%81_%D0%BB%D0%B0%D0%B1%D1%83%D0%B1%D1%83_%D0%BF%D0%BE%D1%81%D1%82_y4jgdh.jpg",
+    "link": "http://kukacafe.ru/news/mk-venskie-vafli-s-labubu"
+  },
+  {
     "id": 51,
     "title": "Субботние активности в \"Кука\"",
     "description": "Это отличная возможность провести насыщенный и познавательный день с детьми - квесты, соревнования, творчество и веселье в уютной атмосфере кафе.",
@@ -115,15 +124,6 @@
     "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370612/%D0%A0%D0%BE%D0%BB%D0%BB%D1%8B_%D0%BF%D0%BE%D1%81%D1%82_kypy3h.jpg",
     "link": "http://kukacafe.ru/news/mk-rolly-dlya-detey"
-  },
-  {
-    "id": 50,
-    "title": "Кулинарный мастер-класс «Венские вафли с LABUBU»",
-    "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить венские вафли с LABUBU",
-    "expiry_date": "Thu May 28 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370574/%D0%92%D0%B0%D1%84%D0%BB%D0%B8_%D1%81_%D0%BB%D0%B0%D0%B1%D1%83%D0%B1%D1%83_%D0%BF%D0%BE%D1%81%D1%82_y4jgdh.jpg",
-    "link": "http://kukacafe.ru/news/mk-venskie-vafli-s-labubu"
   },
   {
     "id": 1,
