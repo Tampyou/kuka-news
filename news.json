@@ -18,6 +18,15 @@
     "link": "http://kukacafe.ru/news/mc-cosmopizzamay"
   },
   {
+    "id": 44,
+    "title": "Кулинарный  мастер-класс  «С Днем Победы»",
+    "description": "Приглашаем детей на особенный, тёплый и душевный мастер-класс, посвящённый важному празднику!",
+    "expiry_date": "Fri May 08 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Mon May 04 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370461/_%D0%A1_%D0%94%D0%BD%D0%B5%D0%BC_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B__%D0%BF%D0%BE%D1%81%D1%82_w1vdbc.jpg",
+    "link": "http://kukacafe.ru/news/sdnyompobedy"
+  },
+  {
     "id": 49,
     "title": "Кулинарный мастер-класс \"Роллы для детей\"",
     "description": "Приглашаем на яркий и необычный мастер-класс, где дети будут готовить полезные и красивые роллы из фруктов и овощей",
@@ -61,15 +70,6 @@
     "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777901622/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D1%8B%D0%B5_%D1%81%D0%B0%D0%B9%D1%82_ckvhtd.jpg",
     "link": "https://kukacafe.ru/vipusknoy"
-  },
-  {
-    "id": 44,
-    "title": "Кулинарный  мастер-класс  «С Днем Победы»",
-    "description": "Приглашаем детей на особенный, тёплый и душевный мастер-класс, посвящённый важному празднику!",
-    "expiry_date": "Fri May 08 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "created_at": "Fri May 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/q_auto/f_auto/v1777370461/_%D0%A1_%D0%94%D0%BD%D0%B5%D0%BC_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B__%D0%BF%D0%BE%D1%81%D1%82_w1vdbc.jpg",
-    "link": "http://kukacafe.ru/news/sdnyompobedy"
   },
   {
     "id": 45,
