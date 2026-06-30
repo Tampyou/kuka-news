@@ -577,8 +577,8 @@
   },
   {
     "id": 64,
-    "title": "",
-    "description": "",
+    "title": "Афиша мероприятий июль",
+    "description": "В июле наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
     "expiry_date": null,
     "created_at": null,
     "image_url": "",
@@ -622,6 +622,15 @@
   },
   {
     "id": 69,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
+  },
+  {
+    "id": 70,
     "title": "",
     "description": "",
     "expiry_date": null,
