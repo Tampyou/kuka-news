@@ -1,86 +1,5 @@
 [
   {
-    "id": 86,
-    "title": "Кулинарный мастер-класс «Венские вафли с Лабубу»",
-    "description": "Готовим воздушные венские вафли вместе  с Лабубу, украшаем их и наслаждаемся  вкусным творчеством",
-    "expiry_date": null,
-    "created_at": "Mon Aug 10 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-vafli-s-labyby"
-  },
-  {
-    "id": 85,
-    "title": "Мастер-класс от студии «Аниматик»",
-    "description": "Командная работа по созданию мультфильма.",
-    "expiry_date": null,
-    "created_at": "Sun Aug 09 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-multiplik"
-  },
-  {
-    "id": 84,
-    "title": "Мастер-класс «Весёлая пицерия»",
-    "description": "Готовим ароматную пиццу своими руками  вместе с любимым аниматором  и наслаждаемся результатом",
-    "expiry_date": null,
-    "created_at": "Sat Aug 08 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-pizza"
-  },
-  {
-    "id": 83,
-    "title": "Мастер-класс по робототехнике",
-    "description": "Знакомимся с миром роботов и создаём  свои первые механизмы",
-    "expiry_date": null,
-    "created_at": "Fri Aug 07 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-po-robototekhnike"
-  },
-  {
-    "id": 82,
-    "title": "Тренинг «Безопасный интернет»",
-    "description": "Тренинг по безопасности для юных гостей от школы «Стоп-угроза»",
-    "expiry_date": null,
-    "created_at": "Thu Aug 06 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/treningpobezopasnosti"
-  },
-  {
-    "id": 81,
-    "title": "Кулинарный мастер-класс «Роллы с Куроми»",
-    "description": "Готовим вкусные роллы вместе с Куроми,  узнаём секреты приготовления  и весело проводим время",
-    "expiry_date": null,
-    "created_at": "Wed Aug 05 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-rolly-s-kyromy"
-  },
-  {
-    "id": 80,
-    "title": "Творческий мастер-класс «Летний браслет»",
-    "description": "Создаём стильный браслет своими руками,  сочетая яркие цвета и любимые украшения",
-    "expiry_date": null,
-    "created_at": "Tue Aug 04 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-letny-braslet"
-  },
-  {
-    "id": 79,
-    "title": "Увлекательные настольные игры",
-    "description": "Играем в увлекательные настольные игры, развиваем логику,  внимание и учимся работать в команде.",
-    "expiry_date": null,
-    "created_at": "Mon Aug 03 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/nastolki"
-  },
-  {
-    "id": 78,
-    "title": "Мастер-класс «Морской мир»",
-    "description": "Погружаемся в атмосферу моря, создаём  яркую творческую работу и знакомимся  с его удивительными обитателями",
-    "expiry_date": null,
-    "created_at": "Sun Aug 02 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "",
-    "link": "http://kukacafe.ru/news/mk-morskoi-mir"
-  },
-  {
     "id": 77,
     "title": "Афиша мероприятий август",
     "description": "В августе наше кафе становится ещё уютнее - впереди месяц, наполненный вкусом, теплом и яркими событиями для всей семьи!",
@@ -772,5 +691,86 @@
     "created_at": "Sat Nov 15 2025 12:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118367/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B0_%D0%A7%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_%D0%90%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9A%D0%B0%D1%82%D1%8C%D0%BA%D0%B0%D0%BB%D0%BE_%D0%B2_%D0%BA%D0%B0%D1%84%D0%B5_%D0%9A%D1%83%D0%BA%D0%B0_tjba7n.jpg",
     "link": "https://kukacafe.ru/rclub"
+  },
+  {
+    "id": 78,
+    "title": "Мастер-класс «Морской мир»",
+    "description": "Погружаемся в атмосферу моря, создаём  яркую творческую работу и знакомимся  с его удивительными обитателями",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-morskoi-mir"
+  },
+  {
+    "id": 79,
+    "title": "Увлекательные настольные игры",
+    "description": "Играем в увлекательные настольные игры, развиваем логику,  внимание и учимся работать в команде.",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/nastolki"
+  },
+  {
+    "id": 80,
+    "title": "Творческий мастер-класс «Летний браслет»",
+    "description": "Создаём стильный браслет своими руками,  сочетая яркие цвета и любимые украшения",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-letny-braslet"
+  },
+  {
+    "id": 81,
+    "title": "Кулинарный мастер-класс «Роллы с Куроми»",
+    "description": "Готовим вкусные роллы вместе с Куроми,  узнаём секреты приготовления  и весело проводим время",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-rolly-s-kyromy"
+  },
+  {
+    "id": 82,
+    "title": "Тренинг «Безопасный интернет»",
+    "description": "Тренинг по безопасности для юных гостей от школы «Стоп-угроза»",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/treningpobezopasnosti"
+  },
+  {
+    "id": 83,
+    "title": "Мастер-класс по робототехнике",
+    "description": "Знакомимся с миром роботов и создаём  свои первые механизмы",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-po-robototekhnike"
+  },
+  {
+    "id": 84,
+    "title": "Мастер-класс «Весёлая пицерия»",
+    "description": "Готовим ароматную пиццу своими руками  вместе с любимым аниматором  и наслаждаемся результатом",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-pizza"
+  },
+  {
+    "id": 85,
+    "title": "Мастер-класс от студии «Аниматик»",
+    "description": "Командная работа по созданию мультфильма.",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-multiplik"
+  },
+  {
+    "id": 86,
+    "title": "Кулинарный мастер-класс «Венские вафли с Лабубу»",
+    "description": "Готовим воздушные венские вафли вместе  с Лабубу, украшаем их и наслаждаемся  вкусным творчеством",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-vafli-s-labyby"
   }
 ]
