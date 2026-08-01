@@ -736,5 +736,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/treningpobezopasnosti"
+  },
+  {
+    "id": 83,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
