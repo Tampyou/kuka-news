@@ -718,5 +718,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/mk-letny-braslet"
+  },
+  {
+    "id": 81,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
