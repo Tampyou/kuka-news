@@ -691,5 +691,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/afishaavgyst"
+  },
+  {
+    "id": 78,
+    "title": "Мастер-класс «Морской мир»",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
