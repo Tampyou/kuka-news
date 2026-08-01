@@ -763,5 +763,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/mk-multiplik"
+  },
+  {
+    "id": 86,
+    "title": "Кулинарный мастер-класс «Венские вафли с Лабубу»",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
