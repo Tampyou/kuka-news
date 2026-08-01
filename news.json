@@ -1,5 +1,14 @@
 [
   {
+    "id": 75,
+    "title": "Кулинарный мастер-класс «Гавайская вечеринка»",
+    "description": "Готовим вместе яркие летние кейк-попсы!",
+    "expiry_date": "31.027.2026",
+    "created_at": "Fri Jul 31 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/v1782827363/%D0%B3%D0%B0%D0%B2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D1%81%D1%82_gfa9ft.jpg",
+    "link": "http://kukacafe.ru/news/mk-gavayskaya-vecherinka"
+  },
+  {
     "id": 76,
     "title": "НОВИНКА в Кука - «Создай свой первый комикс»",
     "description": "Творческий мастер-класс для детей, где рисунок, фантазия и сторителлинг соединятся в настоящий комикс.",
@@ -106,15 +115,6 @@
     "created_at": "Wed Jul 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/v1782827335/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA_%D0%BF%D0%BE%D1%81%D1%82_lgluj9.jpg",
     "link": "http://kukacafe.ru/news/multiplikatsionnyy-master-klass"
-  },
-  {
-    "id": 75,
-    "title": "Кулинарный мастер-класс «Гавайская вечеринка»",
-    "description": "Готовим вместе яркие летние кейк-попсы!",
-    "expiry_date": "31.027.2026",
-    "created_at": "Wed Jul 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
-    "image_url": "https://res.cloudinary.com/dfydtrbk1/image/upload/v1782827363/%D0%B3%D0%B0%D0%B2%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D1%81%D1%82_gfa9ft.jpg",
-    "link": "http://kukacafe.ru/news/mk-gavayskaya-vecherinka"
   },
   {
     "id": 63,
