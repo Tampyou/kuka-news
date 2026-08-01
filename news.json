@@ -754,5 +754,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/mk-pizza"
+  },
+  {
+    "id": 85,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": "http://kukacafe.ru/news/mk-multiplik"
   }
 ]
