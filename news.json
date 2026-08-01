@@ -745,5 +745,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/mk-po-robototekhnike"
+  },
+  {
+    "id": 84,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
