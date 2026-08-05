@@ -790,5 +790,14 @@
     "created_at": null,
     "image_url": "",
     "link": "http://kukacafe.ru/news/adaptacia-k-shkole"
+  },
+  {
+    "id": 89,
+    "title": "",
+    "description": "",
+    "expiry_date": null,
+    "created_at": null,
+    "image_url": "",
+    "link": ""
   }
 ]
