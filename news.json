@@ -162,6 +162,15 @@
     "link": "http://kukacafe.ru/news/mk-multiplik"
   },
   {
+    "id": 100,
+    "title": "Афиша мероприятий октябрь",
+    "description": "Октябрь в «Кука»-время творчества, семейных праздников, добрых встреч и осеннего волшебства!",
+    "expiry_date": "Tue Sep 01 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "created_at": "Wed Aug 26 2026 00:00:00 GMT+0300 (Moscow Standard Time)",
+    "image_url": "",
+    "link": ""
+  },
+  {
     "id": 91,
     "title": "Интерактивный спектакль «Кукольные истории»",
     "description": "Волшебная ширма вновь откроется,  чтобы подарить детям удивительное  путешествие в мир сказки.",
@@ -961,15 +970,6 @@
     "created_at": "Wed Dec 31 2025 00:00:00 GMT+0300 (Moscow Standard Time)",
     "image_url": "https://res.cloudinary.com/dizrpgcxr/image/upload/v1776118361/%D0%9A%D1%83%D0%BA%D0%B0_%D1%8D%D1%82%D0%BE_%D1%83%D1%8E%D1%82%D0%BD%D0%BE%D0%B5_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5_%D0%BA%D0%B0%D1%84%D0%B5_k4wmge.jpg",
     "link": "https://kukacafe.ru/news/question"
-  },
-  {
-    "id": 100,
-    "title": "Афиша мероприятий октябрь",
-    "description": "Октябрь в «Кука»-время творчества, семейных праздников, добрых встреч и осеннего волшебства!",
-    "expiry_date": null,
-    "created_at": null,
-    "image_url": "",
-    "link": ""
   },
   {
     "id": 104,
